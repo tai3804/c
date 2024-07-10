@@ -1,0 +1,4 @@
+hi,xin chao
+hello,xin chao
+go,di
+home,nha
